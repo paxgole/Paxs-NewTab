@@ -7,8 +7,7 @@ Simple but cute New Tab Replacement!
 1. Visual Improvements
 	1. Matches Pax's custom color scheme
 	2. Not ugly
-	3. No ads or Google Doodle
-	(not all of them are ugly, but none of them fit my theme)
+	3. No ads or Google Doodle (they're not *bad*, but none of them fit my theme)
 2. Clock
 3. Basic WYSIWYG Notepad
 
