@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Pax's NewTab",
+  "version": "1.0",
+  "description": "Replacement for Old NewTab",
+  "author": "Pax",
+  "chrome_url_overrides" :
+  {
+    "newtab": "welcome.html"
+  },
+  "permissions":
+  [
+    "storage"
+  ],
+  "icons":
+  {
+    "16": "icon16.png",
+    "128": "icon128.png"
+  }
+}
